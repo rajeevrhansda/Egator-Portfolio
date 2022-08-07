@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+React Portfolio Website Tutorial From Scratch - Build & Deploy React JS Portfolio Website
+Youtube link: https://www.youtube.com/watch?v=G-Cr00UYokU&t=4511s
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
